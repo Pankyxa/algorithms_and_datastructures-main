@@ -15,7 +15,7 @@ void FillBoolArray(bool* arr, int len, bool value)
         arr[i] = value;
     }
 }
-//inpit n
+//inpit  n
 //asdasd
 int main() {
 //0 1 2 3 4 5 6
